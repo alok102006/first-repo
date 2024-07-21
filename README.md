@@ -1,3 +1,3 @@
 # first-repo
 This is my first repository.<br>
-Author - Alok Singh
+Author - Atharv singh
